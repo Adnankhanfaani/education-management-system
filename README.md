@@ -75,26 +75,6 @@ appsettings.json
 
 ---
 
-## ⚙️ Getting Started
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/Adnankhanfaani/education-management-system.git
-```
-
-2. Open the project in Visual Studio.
-
-3. Restore NuGet packages.
-
-4. Update the SQL Server connection string in `appsettings.json` if required.
-
-5. Apply database migrations.
-
-6. Run the project.
-
----
-
 ## 🗄️ Database
 
 * Microsoft SQL Server
@@ -116,6 +96,6 @@ This project was developed for educational purposes as a university semester pro
 
 ## 👨‍💻 Developer
 
-**Adnan Khan**
+**Adnan Khan, Yasir waheed, Nasitsh **
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
