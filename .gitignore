@@ -1,0 +1,36 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# SQL LocalDB
+*.mdf
+*.ldf
+
+# NuGet packages
+packages/
+
+# Publish output
+publish/
+
+# Temporary files
+Temp/
+
+# OS files
+Thumbs.db
+Desktop.ini
